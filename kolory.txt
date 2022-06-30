@@ -4,3 +4,4 @@ Zielony
 Pomarańczowy
 Fioletowy
 Biały
+Żółty
