@@ -5,6 +5,7 @@ Niebieski
 Zielony
 Pomarańczowy
 Fioletowy
+Akacjowy
 Biały
 Żółty
 Jednorożec
