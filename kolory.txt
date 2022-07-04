@@ -1,4 +1,4 @@
-Tęcza i Jednorożec
+Tęcza, Jednorożec i Kucyk
 
 Czerwony
 Niebieski
@@ -9,3 +9,4 @@ Akacjowy
 Biały
 Żółty
 Jednorożec
+Kucyk
